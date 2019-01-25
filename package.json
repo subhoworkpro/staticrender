@@ -1,7 +1,7 @@
 {
   "name": "render",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "app.js",
   "dependencies": {
     "prerender": "^5.4.5"
   },
